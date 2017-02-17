@@ -45,7 +45,7 @@
             clone.find(".towed_to_address").text(v.towed_to_address);
             clone.find(".mapLink").attr("href", "https://www.google.com/maps/place/" + v.towed_to_address);
             $("#results").append("clone");
-          })
+          });
 
         }).fail(function(err) {
           throw err;
