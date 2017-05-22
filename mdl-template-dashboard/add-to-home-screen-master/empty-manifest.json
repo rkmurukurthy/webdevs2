@@ -1,0 +1,15 @@
+{
+  "short_name": "GR",
+  "name": "Getting Ready",
+  "icons": [
+    {
+      "src":"",
+      "sizes": "",
+      "type": ""
+    }
+  ],
+  "start_url": "https://preview.c9users.io/rkmurukurthy/webdevs2/mdl-template-dashboard/index.html",
+  "background_color": "indigo",
+  "theme_color": "purple",
+  "display": ""
+}
